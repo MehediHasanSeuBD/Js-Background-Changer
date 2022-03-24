@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+button {
+    width: 7vw;
+    height: 7vh;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+button:hover {
+    font-size: 20px;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
